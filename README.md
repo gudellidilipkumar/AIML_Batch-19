@@ -14,3 +14,5 @@
 [lab-7(https://github.com/gudellidilipkumar/AIML_Batch-19/blob/main/Assignment_7.ipynb)]
 
 [lab-8(https://github.com/gudellidilipkumar/AIML_Batch-19/blob/main/assigment8.ipynb)]
+
+[lab-9(https://github.com/gudellidilipkumar/AIML_Batch-19/blob/main/Assignment9.ipynb)]
